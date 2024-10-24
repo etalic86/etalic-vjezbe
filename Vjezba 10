@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="icon" type="image/x-icon" href="baseball.ico">
+    </head>
+    <body>
+        <h1>Video</h1>
+        <h2>Rim iz zraka</h2>
+        <video width="50%" height="100%" controls>
+        <source src="c:\Users\etalic\Downloads\190312_17_Colosseum_Drone_003.mp4" type= "video/mp4">
+        </video>
+       
+    </body>
+</html>
